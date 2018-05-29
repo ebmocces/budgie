@@ -6,7 +6,10 @@
   "repository": "https://github.com/ebmocces/budgie.git",
   "license": "MIT",
   "dependencies": {
-    "tslint": "^5.10.0",
-    "typescript": "^2.8.3"
+    "jest": "23.0.1",
+    "prettier": "1.13.2",
+    "react": "16.4.0",
+    "tslint": "5.10.0",
+    "typescript": "2.8.3"
   }
 }
