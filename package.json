@@ -1,0 +1,12 @@
+{
+  "name": "budgie",
+  "version": "0.0.1",
+  "description": "Budgie Budget PWA",
+  "main": "index.js",
+  "repository": "https://github.com/ebmocces/budgie.git",
+  "license": "MIT",
+  "dependencies": {
+    "tslint": "^5.10.0",
+    "typescript": "^2.8.3"
+  }
+}
